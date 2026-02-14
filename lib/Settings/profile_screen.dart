@@ -1,6 +1,6 @@
 import 'package:bai_tap_lon_cuoi_ki/languages/app_localizations.dart';
 import 'package:flutter/material.dart';
-
+//CLick vào avt sẽ hiện full ảnh
 void main() {
   runApp(MaterialApp(home: TrangProfile()));
 }
